@@ -1,8 +1,8 @@
-Hi there 👋
-
 ### [Axel Bellec](https://www.linkedin.com/in/axelbellec/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-axelbellec-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axelbellec/)](https://www.linkedin.com/in/axelbellec/)
+
+Hi there 👋
 
 ### About
 
