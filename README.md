@@ -6,6 +6,6 @@ Hi there 👋
 
 ### About
 
-- :crystal_ball: Data Scientist
-- :point_right: [Bordeaux](https://www.google.com/maps?q=bordeaux)
-- :fire: [Synapse Medicine](https://synapse-medicine.com/)
+- 🏁 Software Engineer (Data Systems)
+- 🗺️ [Bordeaux](https://www.google.com/maps?q=bordeaux)
+- 🏗️ [Synapse Medicine](https://synapse-medicine.com/)
