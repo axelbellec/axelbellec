@@ -2,7 +2,7 @@
 
 # 👋 hi there
 
-I'm a passionate Software Engineer at Synapse Medicine, based in the beautiful city of Bordeaux, France 🇫🇷. I specialize in data science, data engineering, and back-end development, building scalable systems and integrating DevOps practices into my projects.
+I'm a passionate Software Engineer at [Synapse Medicine](https://www.synapse-medicine.com/), based in the beautiful city of [Bordeaux](http://maps.google.fr/?q=Bordeaux), France 🇫🇷. I specialize in data science, data engineering, and back-end development, building scalable systems and integrating dev-ops practices into my projects.
 
 ## about me
 
